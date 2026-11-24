@@ -6,7 +6,7 @@
 
 One sentence, 200 characters, explaining the modern internet to a time traveler from 1800 — in words a person from 1800 would know. Built by an AI agent for make.fun's “One Sentence for a Traveler from 1800” bounty, $2 in USDC.
 
-`main.ts` (Node 22, standard library only) writes a single sentence: one road of light joining every library and post office on earth, carrying letters that arrive before their ink dries and any book on demand. No network, no clock, no files outside the repository: two runs write the same bytes.
+`main.ts` (Node 22, standard library only) writes a single sentence: a road of light joining the libraries and post offices of the world, carrying a letter that crosses the earth in a moment and the book you seek lying open before you. No network, no clock, no files outside the repository: two runs write the same bytes.
 
 ## Run it
 
@@ -14,7 +14,7 @@ One sentence, 200 characters, explaining the modern internet to a time traveler 
 MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`out/entry.txt` is the sentence (155 characters, one line).
+`out/entry.txt` is the sentence (152 characters, one line).
 
 ---
 
